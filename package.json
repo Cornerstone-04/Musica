@@ -1,0 +1,22 @@
+{
+  "name": "musica",
+  "version": "1.0.0",
+  "description": "music app",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cornerstone-04/Musica.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cornerstone-04/Musica/issues"
+  },
+  "homepage": "https://github.com/Cornerstone-04/Musica#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  }
+}
