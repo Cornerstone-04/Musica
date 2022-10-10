@@ -6,6 +6,10 @@
 
 https://www.figma.com/file/pbwKUpfKPoAcBIgFoXFueS/Musica?node-id=0%3A1
 
+## Music API:
+
+https://rapidapi.com/category/Music
+
 ## Things to take note:
 
 The SEARCH bar above should work and be able to search for songs in library
